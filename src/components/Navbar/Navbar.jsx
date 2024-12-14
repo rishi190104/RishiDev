@@ -34,7 +34,7 @@ const Navbar = () => {
   ];
 
   return (
-    <header className="w-full h-20 bg-slate-900 relative z-10">
+    <header className="w-full h-20 bg-slate-900 md:fixed relative z-10">
       <nav className="flex justify-between px-16 py-5 text-slate-400 text-lg ">
         <div>
           <h1 className="font-signature text-3xl cursor-pointer">Rishi</h1>
