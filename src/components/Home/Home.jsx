@@ -17,9 +17,9 @@ const Home = () => {
   return (
     <main
       name="home"
-      className="h-screen w-full bg-gradient-to-r from-slate-900 to-slate-700 text-white"
+      className="md:h-screen h-full w-full bg-gradient-to-r from-slate-900 to-slate-700 text-white"
     >
-      <section className="flex flex-col justify-center items-center max-w-screen-lg mx-auto h-full gap-y-5  md:flex-row md:pt-0 pt-24">
+      <section className="flex flex-col justify-center items-center max-w-screen-lg mx-auto h-full gap-y-5  md:flex-row md:pt-0 pt-20">
         <div
           className="md:mr-20 
         px-5"
@@ -59,13 +59,13 @@ const Home = () => {
                 </span>
               </a>
             </li>
-            {/* <li>
+            <li>
               <a href="https://www.linkedin.com" title="LinkedIn" target="_blank">
                 <span>
                   <FaLinkedin size={33}/>
                 </span>
               </a>
-            </li> */}
+            </li>
             <li>
               <a href="mailto:hi.rishisingh19@gmail.com" title="Email" target="_blank">
                 <span>

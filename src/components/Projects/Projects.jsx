@@ -41,8 +41,8 @@ const Projects = () => {
             id: 4,
             src: Portfolio,
             alt: "Portfolio",
-            demohref: "",
-            codehref: "",
+            demohref: "https://rishidev.netlify.app/",
+            codehref: "https://github.com/rishi190104/RishiDev",
             animation: "fade-right",
         },
         

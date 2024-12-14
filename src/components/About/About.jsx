@@ -16,7 +16,9 @@ const About = () => {
      
       
     <section className='flex flex-col justify-center items-center max-w-screen-lg mx-auto md:py-8 md:px-0 px-5 py-4 md:text-xl gap-y-2
-    text-lg ' data-aos="zoom-in-up" data-aos-duration="1500">
+    text-lg ' 
+    data-aos="zoom-in-up" data-aos-duration="1500"
+    >
       <p>"I'm <strong>Rishi Singh</strong>, a Frontend Developer with a strong commitment to building clean, responsive, and interactive web interfaces. With a solid foundation in HTML, CSS, and JavaScript, I began my journey into frontend development four months ago and have since been exploring frameworks, libraries, and modern web technologies that enhance user experience.</p>
       <p>
       My toolkit includes React for creating dynamic UIs, Redux Toolkit for managing state seamlessly, and Material UI and Tailwind CSS for visually compelling and responsive design. Additionally, I am familiar with Firebase, which allows me to build secure, backend-integrated projects efficiently.

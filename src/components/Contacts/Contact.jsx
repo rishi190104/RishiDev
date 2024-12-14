@@ -47,19 +47,17 @@ const Contact = () => {
           <span>{result}</span>
             <p className="flex gap-x-3 justify-between px-5 pt-10 ">
            <input type="text" name="Name" id="name" placeholder="Enter Your Name"
-            className="w-[333px] bg-transparent border p-1 "
+            className="md:w-[333px] w-[277px] bg-transparent border p-1 "
             />
             </p>
             <p className="flex gap-x-3 justify-between px-5 ">
-            {/* <label htmlFor="email">Email Id:</label> */}
             <input type="email" name="Email" id="email" placeholder="Enter Your Email"
-            className="w-[333px] bg-transparent border p-1"
+            className="md:w-[333px] w-[277px] bg-transparent border p-1"
             />
             </p>
             <p className="flex gap-x-3 justify-between px-5 ">
-            {/* <label htmlFor="message">Message:</label> */}
             <textarea name="Message" id="message" placeholder="Message" 
-            className="w-[333px] bg-transparent border h-36 p-1"
+            className="md:w-[333px] w-[277px] bg-transparent border h-36 p-1"
             >
 
             </textarea>
