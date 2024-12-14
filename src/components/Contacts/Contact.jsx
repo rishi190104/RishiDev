@@ -35,7 +35,7 @@ const Contact = () => {
   
   
 
-    <section name="contact me" className="w-full h-screen bg-gradient-to-r from-slate-900 to-slate-700 text-white">
+    <section name="contact me" className="w-full md:h-screen h-full bg-gradient-to-r from-slate-900 to-slate-700 text-white">
       <div className="flex flex-col justify-center items-start max-w-screen-lg mx-auto md:pl-0 pl-5 md:pt-0 pt-5">
         <h2 className="text-3xl text-cyan-500 border-b-2 border-slate-500">Contact Me</h2>
         <p className="text-xl pt-2">Submit the form below to get in touch with me</p>
