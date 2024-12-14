@@ -1,8 +1,54 @@
-# React + Vite
+# Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![image](/src/assets/portfolio.png)
 
-Currently, two official plugins are available:
+Built a personal portfolio to showcase skills, projects, and facilitate collaboration.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 😎 Live Demo
+
+**Visit -** **https://rishidev.netlify.app/**
+
+## 🛠️ Tech Stack  
+
+- React.js  
+- Tailwind CSS    
+
+
+**Third-Party Integrations:**   
+- Web3 Forms for Email Service .
+
+---
+
+## ⚙️ Installation 
+
+**Follow these steps to set up the project locally:**
+
+1. Clone this repository:
+```bash
+git clone https://github.com/rishi190104/RishiDev.git 
+```
+
+2. Navigate to the project directory:
+```bash
+cd RishiDev
+```
+
+3. Install Dependencies:
+```bash
+npm install
+```
+4. Start the development server:
+```bash
+npm run dev
+```
+
+---
+
+## 📬 Contact
+For questions, feedback, or support, feel free to reach out:
+
+**GitHub:** rishi190104
+**Email:** rs9911777@gmail.com
+
+---
+&copy; Copyright Rishi Singh
