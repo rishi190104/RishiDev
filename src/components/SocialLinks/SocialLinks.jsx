@@ -3,18 +3,18 @@ import { FaLinkedin } from "react-icons/fa";
 import { BsFillPersonLinesFill } from "react-icons/bs";
 import { FaGithub } from "react-icons/fa6";
 import { MdEmail } from "react-icons/md";
-import resume from "../SocialLinks/Rishi_Singh_resume.pdf";
+import resume from "../SocialLinks/Rishi_Singh_Resume.pdf";
 
 const SocialLinks = () => {
   const social = [
-    // {
-    //     id: 1,
-    //     text: "LinkedIn",
-    //     href: "https://linkedin.com",
-    //     icon : <FaLinkedin size={40}/>,
-    //      target: "_blank"
+    {
+        id: 1,
+        text: "LinkedIn",
+        href: "https://www.linkedin.com/in/rishi-singh-256bba342",
+        icon : <FaLinkedin size={40}/>,
+         target: "_blank"
 
-    // },
+    },
     {
       id: 2,
       text: "Github",

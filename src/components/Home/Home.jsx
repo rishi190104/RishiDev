@@ -4,7 +4,7 @@ import { BsFillPersonLinesFill } from "react-icons/bs";
 import { FaGithub } from "react-icons/fa6";
 import { MdEmail } from "react-icons/md";
 import { FaLinkedin } from "react-icons/fa";
-import resume from "../SocialLinks/Rishi_Singh_resume.pdf"
+import resume from "../SocialLinks/Rishi_Singh_Resume.pdf"
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 
@@ -60,7 +60,7 @@ const Home = () => {
               </a>
             </li>
             <li>
-              <a href="https://www.linkedin.com" title="LinkedIn" target="_blank">
+              <a href="https:/www.linkedin.com/in/rishi-singh-256bba342" title="LinkedIn" target="_blank">
                 <span>
                   <FaLinkedin size={33}/>
                 </span>
