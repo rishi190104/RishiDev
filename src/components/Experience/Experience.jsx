@@ -4,6 +4,7 @@ import csslogo from "../../assets/csslogo.png";
 import jslogo from "../../assets/jslogo.png";
 import tailwindcsslogo from "../../assets/tailwindcsslogo.png";
 import reactlogo from "../../assets/reactlogo.png";
+import tslogo from "../../assets/tslogo.png";
 import materialuilogo from "../../assets/materialuilogo.png";
 import antdesignlogo from "../../assets/antdesignlogo.png";
 import githublogo from "../../assets/githublogo.png";
@@ -39,6 +40,13 @@ const Experience = () => {
       animation: "zoom-out-left",
     },
     {
+      id: 3,
+      src: tslogo,
+      text: "TYPESCRIPT",
+     style: " shadow-blue-400 text-blue-400",
+      animation: "zoom-out-left",
+    },
+    {
       id: 4,
       src: tailwindcsslogo,
       text: "TAILWIND CSS",
@@ -59,6 +67,14 @@ const Experience = () => {
       style: " shadow-purple-600 text-cyan-600",
       animation: "zoom-out-left",
     },
+    {
+      id: 6,
+      src: reduxlogo,
+      text: "ANGULAR",
+      style: " shadow-purple-600 text-cyan-600",
+      animation: "zoom-out-left",
+    },
+
     {
       id: 7,
       src: materialuilogo,

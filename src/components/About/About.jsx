@@ -19,12 +19,15 @@ const About = () => {
     text-lg ' 
     data-aos="zoom-in-up" data-aos-duration="1500"
     >
-      <p>"I'm <strong>Rishi Singh</strong>, a Frontend Developer with a strong commitment to building clean, responsive, and interactive web interfaces. With a solid foundation in HTML, CSS, and JavaScript, I began my journey into frontend development four months ago and have since been exploring frameworks, libraries, and modern web technologies that enhance user experience.</p>
+      <p>"I'm <strong>Rishi Singh</strong>, an Experienced Frontend Developer with hands-on expertise in building modern, responsive, and scalable web applications.</p>
       <p>
-      My toolkit includes React for creating dynamic UIs, Redux Toolkit for managing state seamlessly, and Material UI and Tailwind CSS for visually compelling and responsive design. Additionally, I am familiar with Firebase, which allows me to build secure, backend-integrated projects efficiently.
+      My skill set spans a versatile toolkit, including React and Angular for creating dynamic applications, JavaScript and TypeScript for robust development, and HTML/CSS with Tailwind CSS for crafting clean, user-friendly interfaces. I also work with Redux Toolkit for seamless state management and Zod for reliable data validation, ensuring efficiency and maintainability across projects.
       </p>
       <p>
-      As I continue developing my skills, I aim to create digital experiences that not only meet user needs but also look stunning on any device. I am always eager to learn and take on new challenges that push the boundaries of web design and functionality. Let's connect and explore how we can bring innovative ideas to life through code!"
+        In addition to frontend development, I have experience working on AI-driven projects, where I integrated intelligent solutions to enhance functionality and create more impactful user experiences.
+      </p>
+      <p>
+      I enjoy transforming complex requirements into intuitive, visually engaging, and high-performance solutions that work flawlessly across devices. With a strong focus on user experience and clean code practices, I aim to deliver applications that are not only functional but also impactful.
       </p>
       
     </section>

@@ -32,12 +32,11 @@ const Home = () => {
           </h2>
 
           <p className="md:text-xl">
-            a <strong className="text-cyan-500">Frontend Developer </strong>
-            crafting visually engaging and efficient web applications.
+            an <strong className="text-cyan-500">Experienced Frontend Developer </strong>
+            building dynamic, scalable, and user-friendly web applications.
           </p>
           <p className="md:text-xl">
-            With a strong foundation in React, JavaScript, and modern UI
-            libraries, I bring creative solutions to life on the web."
+           With strong expertise in React, JavaScript, TypeScript, and Angular, I specialize in delivering modern, high-performance solutions that combine clean code with engaging user experiences.
           </p>
         </div>
         <div className="flex items-center"
